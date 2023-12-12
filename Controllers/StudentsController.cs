@@ -16,7 +16,10 @@ public class StudentsController : ControllerBase
         {
             new Student { Name = "John Doe", Marks = 90 },
             new Student { Name = "Jane Doe", Marks = 85 },
-            new Student { Name = "Bob Smith", Marks = 78 }
+            new Student { Name = "Bob Smith", Marks = 78 },
+            new Student { Name = "HUBA", Marks = 15 },
+            new Student { Name = "BUBA", Marks = 65 },
+            new Student { Name = "LUPA", Marks = 69 }
             // Add more students as needed
         };
 
